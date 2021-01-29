@@ -1,4 +1,4 @@
-# Shinkasen_Travel_Experience-DataScienceHackathon
+# Shinkasen_Travel_Experience-Data_Science_Hackathon
 
 This is the winning solution on my first Data Science hackathon ever. 
 
